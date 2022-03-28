@@ -21,7 +21,7 @@
 
 <Insight>
 	<symptomId>KeyVaultUnauthorizedInsight,KeyVaultThrottledInsight,KeyVaultUnauthorizedData,KeyVaultThrottledData,KeyVaultVaultNotFoundInsight</symptomId>
-	<executionText>We are running some checks on your resource</executionText>
+	<executionText>We are running some checks on your resource!</executionText>
 	<timeoutText>We stopped the check, as it was taking too long</timeoutText> 
 	<noResultText>The diagnostic did not detect any issue</noResultText> 
     <additionalInputsReq>true</additionalInputsReq>
