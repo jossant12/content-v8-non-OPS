@@ -1,4 +1,5 @@
 <Data XMLVersion="2.0">
+  <String Name="juno-test" Translate="Yes"><![CDATA[JunoTest]]></String>
   <String Name="abt_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p><span>You are designing a solution that uses drones to monitor remote locations for anomalies. The drones have Azure IoT Edge devices. The solution must meet the following requirements:</span></p>
 <p><span>&nbsp;</span></p>
 
