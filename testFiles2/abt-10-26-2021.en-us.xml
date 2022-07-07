@@ -3,6 +3,8 @@
   <String Name="abt_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p><span>You are designing a solution that uses drones to monitor remote locations for anomalies. The drones have Azure IoT Edge devices. The solution must meet the following requirements:</span></p>
 <p><span>&nbsp;</span></p>
 
+
+
 <ul>
 <li><span style="font-family: Segoe UI,sans-serif;">Use a video stream to detect anomalies at the location.</span></li>
 <li>Send the pictures and location information to Azure.<br /></li>
