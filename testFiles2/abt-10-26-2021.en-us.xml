@@ -172,7 +172,7 @@
 <li>Butler must provide users with the ability to reserve a room, cancel a reservation, and view existing reservations.</li>
 <li>The new Bookings app must be available to users in North America and Europe if a single data center or Azure region fails.</li>
 <li>For continuous improvement, you must be able to test Butler by sending sample utterances and comparing the chatbot&rsquo;s responses to the actual intent.</li>
-<li>You must maintain relationships between data after migration. Testing required.</li>
+<li>You must maintain relationships between data after migration. test Update.</li>
 </ul>]]></String>
   <String Name="CONT_AI100_OV~1~1~0~0~-1~-1~-1" Translate="Yes"><![CDATA[<html>
 <head></head>
