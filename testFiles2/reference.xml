@@ -137,7 +137,7 @@
 > [!NOTE]
 > The <xref:System.Data.DataSet> and <xref:System.Data.DataTable> objects inherit from <xref:System.ComponentModel.MarshalByValueComponent> and support the <xref:System.Runtime.Serialization.ISerializable> interface for .NET Framework remoting. These are the only ADO.NET objects that you can use for .NET Framework remoting.
 
-### Security considerations - New test
+### Security considerations - Updated
 
 For information about DataSet and DataTable security, see [Security guidance](/dotnet/framework/data/adonet/dataset-datatable-dataview/security-guidance).
   
